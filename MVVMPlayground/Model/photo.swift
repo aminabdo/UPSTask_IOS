@@ -19,4 +19,6 @@ struct Photo: Codable {
     let image_url: String
     let for_sale: Bool
     let camera: String?
+    
+    // test
 }
